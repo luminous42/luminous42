@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Luminous Suwal👋
 
 <!--
 **luminous42/luminous42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
