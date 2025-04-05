@@ -60,8 +60,8 @@ You can find more on [luminoussuwal.com.np](https://luminoussuwal.com.np)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luminoussuwal&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminoussuwal&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luminous42&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminous42&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
